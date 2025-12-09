@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
       <img src="" alt="" />
-      <p>Hi</p>
+      <p>Hi i am kushika</p>
     </div>
   )
 }
