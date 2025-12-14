@@ -27,6 +27,7 @@ const Navbar = () => {
           <a href="#" class="block py-2 hover:text-blue-500">About</a>
           <a href="#" class="block py-2 hover:text-blue-500">Projects</a>
           <a href="#" class="block py-2 hover:text-blue-500">Contact</a>
+          <a href="dfgfdh"></a>
         </div>
           )}
       </nav>
